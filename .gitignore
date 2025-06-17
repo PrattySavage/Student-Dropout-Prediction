@@ -1,0 +1,9 @@
+# Ignore large and unnecessary files
+venv/
+*.pkl
+*.csv
+*.zip
+*.tar.gz
+*.ipynb_checkpoints/
+__pycache__/
+.DS_Store
